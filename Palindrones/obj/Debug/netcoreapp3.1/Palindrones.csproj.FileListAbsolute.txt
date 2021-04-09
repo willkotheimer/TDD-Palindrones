@@ -1,0 +1,13 @@
+C:\Users\wkoth\source\repos\Palindrones\Palindrones\bin\Debug\netcoreapp3.1\Palindrones.exe
+C:\Users\wkoth\source\repos\Palindrones\Palindrones\bin\Debug\netcoreapp3.1\Palindrones.deps.json
+C:\Users\wkoth\source\repos\Palindrones\Palindrones\bin\Debug\netcoreapp3.1\Palindrones.runtimeconfig.json
+C:\Users\wkoth\source\repos\Palindrones\Palindrones\bin\Debug\netcoreapp3.1\Palindrones.runtimeconfig.dev.json
+C:\Users\wkoth\source\repos\Palindrones\Palindrones\bin\Debug\netcoreapp3.1\Palindrones.dll
+C:\Users\wkoth\source\repos\Palindrones\Palindrones\bin\Debug\netcoreapp3.1\Palindrones.pdb
+C:\Users\wkoth\source\repos\Palindrones\Palindrones\obj\Debug\netcoreapp3.1\Palindrones.csprojAssemblyReference.cache
+C:\Users\wkoth\source\repos\Palindrones\Palindrones\obj\Debug\netcoreapp3.1\Palindrones.AssemblyInfoInputs.cache
+C:\Users\wkoth\source\repos\Palindrones\Palindrones\obj\Debug\netcoreapp3.1\Palindrones.AssemblyInfo.cs
+C:\Users\wkoth\source\repos\Palindrones\Palindrones\obj\Debug\netcoreapp3.1\Palindrones.csproj.CoreCompileInputs.cache
+C:\Users\wkoth\source\repos\Palindrones\Palindrones\obj\Debug\netcoreapp3.1\Palindrones.dll
+C:\Users\wkoth\source\repos\Palindrones\Palindrones\obj\Debug\netcoreapp3.1\Palindrones.pdb
+C:\Users\wkoth\source\repos\Palindrones\Palindrones\obj\Debug\netcoreapp3.1\Palindrones.genruntimeconfig.cache

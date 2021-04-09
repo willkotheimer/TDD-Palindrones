@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrones", "Palindrones\Palindrones.csproj", "{346F7FF7-D0DD-48C6-8551-BB64C0B1233B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrones.Tests", "Palindrones.test\Palindrones.Tests.csproj", "{C479010F-8DEF-4306-B69D-4D364FF1E57C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{346F7FF7-D0DD-48C6-8551-BB64C0B1233B} = {346F7FF7-D0DD-48C6-8551-BB64C0B1233B}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{346F7FF7-D0DD-48C6-8551-BB64C0B1233B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346F7FF7-D0DD-48C6-8551-BB64C0B1233B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346F7FF7-D0DD-48C6-8551-BB64C0B1233B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346F7FF7-D0DD-48C6-8551-BB64C0B1233B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C479010F-8DEF-4306-B69D-4D364FF1E57C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C479010F-8DEF-4306-B69D-4D364FF1E57C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C479010F-8DEF-4306-B69D-4D364FF1E57C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C479010F-8DEF-4306-B69D-4D364FF1E57C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1FB843A-C326-49A4-9CA3-EA1D10F7A351}
+	EndGlobalSection
+EndGlobal
